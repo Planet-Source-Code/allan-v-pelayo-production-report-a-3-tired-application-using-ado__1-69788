@@ -1,0 +1,17 @@
+; Field definition file for table: ADORecordset
+ot01_id	long		1
+hr01_emplyee_id	string	100	string sample value
+mc01_machine	string	100	string sample value
+cc01_capacity	string	100	string sample value
+ot01_date_product	datetime		Jan 5, 1994 1:23:45 PM
+ot01_set_time	currency		1.00
+ot01_quantity_produce	currency		1.00
+ot01_running_time	currency		1.00
+mc01_output	currency		1.00
+ot01_preset_quantity	currency		1.00
+variance	currency		1.00
+ot01_who_created	string	100	string sample value
+percentage	string	31	string sample value
+ot01_dated_created	datetime		Jan 5, 1994 1:23:45 PM
+ot01_who_modified	string	100	string sample value
+ot01_dated_modified	datetime		Jan 5, 1994 1:23:45 PM

@@ -1,0 +1,28 @@
+; Field definition file for table: ADORecordset
+so01_id_dtl	long		1
+so01_ref	string	50	string sample value
+jo01_ref	string	50	string sample value
+so01_shift	string	50	string sample value
+hr01_emplyee_id	string	100	string sample value
+operator	string	202	string sample value
+mc01_machine	string	100	string sample value
+cc01_capacity	string	100	string sample value
+so01_date_product	datetime		Jan 5, 1994 1:23:45 PM
+mc01_setting_time	currency		1.00
+so01_set_time	currency		1.00
+so01_net_setting_time	currency		1.00
+so01_set_time	currency		1.00
+so01_quantity_produce	currency		1.00
+so01_running_time	currency		1.00
+so01_downtime	currency		1.00
+so01_total_runtime	currency		1.00
+total_hrs_used	currency		1.00
+mc01_output	currency		1.00
+so01_preset_quantity	currency		1.00
+so01_preset_qty_total_hr	currency		1.00
+variance	currency		1.00
+percentage	string	31	string sample value
+so01_who_created	string	100	string sample value
+so01_dated_created	datetime		Jan 5, 1994 1:23:45 PM
+so01_who_modified	string	100	string sample value
+so01_dated_modified	string	50	string sample value
